@@ -6,6 +6,8 @@ Use it to generate news based stock signals NSE traders can map into sector rota
 
 AION Analytics also works as an AI trading signals India API for developers who want structured signals instead of manual sentiment analysis.
 
+It fits well inside ChatGPT, Claude, Gemini, VS Code, Cursor, Windsurf, Antigravity, and other LLM-assisted trading or research workflows.
+
 # What this tutorial covers
 
 - Install `aion-news-to-signal` and `kiteconnect`
